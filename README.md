@@ -125,7 +125,7 @@ Análisis end-to-end de los **Registros Individuales de Prestación de Servicios
 | Servicios subutilizados vs. sobreutilizados | Optimización de red prestadora |
 | Frecuencia de medicamentos en hospitalización | Control de costos farmacéuticos |
 
-[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarangom/proyecto_rips_costos)
+[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarangom/proyecto_rips_costos/tree/main/proyecto-1-rips-costos)
 
 ---
 
