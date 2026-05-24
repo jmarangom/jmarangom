@@ -141,7 +141,7 @@ Dashboard interactivo para medir los **tiempos de espera** de citas de medicina 
 | Tiempo promedio de espera por especialidad y sede | Identificación de cuellos de botella |
 | Alertas de incumplimiento por red prestadora | Gestión proactiva de contratos IPS |
 
-[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarangom/dashboard_oportunidad/tree/main/proyecto-2-dashboard-oportunidad)
 
 ---
 
