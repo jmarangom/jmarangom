@@ -177,17 +177,17 @@ Segmentación de pacientes con **hipertensión arterial** y **diabetes mellitus 
 
 ---
 
-## 📈 Actividad en GitHub
-
-## 📈 Estadísticas de GitHub
+## 📈 Tecnologías más usadas en este portafolio
 
 <div align="center">
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jarangom&layout=donut&langs_count=6&theme=algolia&hide_border=true&hide=jupyter%20notebook)
+![Python](https://img.shields.io/badge/Python-★★★★☆-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-★★★★☆-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-★★★★☆-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-★★★☆☆-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-★★★★☆-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
-
-> 💡 Portafolio en construcción activa — los proyectos de este perfil se están desarrollando durante 2026.
 
 ---
 
