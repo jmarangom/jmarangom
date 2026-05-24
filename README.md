@@ -157,7 +157,7 @@ Modelo de **clasificación binaria** para predecir qué autorizaciones médicas 
 | Variables top: días de espera, tipo de servicio, diagnóstico | Insumo para rediseño de procesos |
 | Potencial reducción del 30% en tutelas evitables | Ahorro en costos legales y sanciones |
 
-[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarangom/proyecto_ml_tutelas/tree/main/proyecto-3-modelo-tutelas)
 
 ---
 
