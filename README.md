@@ -173,7 +173,7 @@ Segmentación de pacientes con **hipertensión arterial** y **diabetes mellitus 
 | Score de riesgo de hospitalización UCI | Activación de alertas clínicas tempranas |
 | Estimación de ahorro por intervención preventiva oportuna | ROI de programas de gestión de riesgo |
 
-[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Ver Repositorio](https://img.shields.io/badge/📁%20Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jmarangom/cohortes_cronicas/tree/main/proyecto-4-cohortes-cronicas)
 
 ---
 
