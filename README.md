@@ -177,10 +177,10 @@ Segmentación de pacientes con **hipertensión arterial** y **diabetes mellitus 
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 📈 Actividad en GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jarangom&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=jarangom&theme=algolia&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jarangom&layout=compact&langs_count=6&theme=algolia&hide_border=true"/>
 </div>
 
